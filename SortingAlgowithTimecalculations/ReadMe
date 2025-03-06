@@ -1,1 +1,2 @@
-I have edited the existing codes so that now the input would be a file(.txt) of arrays and output would be (size,time) in a text file.
+I have edited the existing codes so that now the input would be a file(.txt) of arrays and output would be (size,time) in a text file. you can generate a file using
+arraygenrator.py because I am unable to upload my file due to its large size.
