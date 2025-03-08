@@ -1,0 +1,4 @@
+time for execution is 5 minutes=300 seconds
+let input size be n;
+now we want to find n for my computer whose base cloak speed is 4.8Ghz ,i.e, 4.8 X 10^9 instructions/second
+so sqrt(300*4.8 X 10^9) = n
